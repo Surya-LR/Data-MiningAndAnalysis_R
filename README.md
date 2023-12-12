@@ -2,7 +2,13 @@
  
 This data mining portfolio project involves several tasks related to exploring and analyzing an unknown/unfamiliar dataset. It covers various aspects of data exploration, preprocessing, classification, clustering, and additional insights, demonstrating a comprehensive analysis of the dataset.
 
-The Task breakdown :
+## Initial Research
+
+Researching the terms in the dataset lead to this background information:
+
+![image](https://github.com/Surya-LR/DataMiningAndAnalysis_R/assets/77691667/414ba380-bdca-4e10-b808-1fb82c0bcce7)
+
+
 ## Dataset Exploration and Classification
 - Load and View the files, Inspecting the data files, Class distribution, Relationships between and Distribution of attributes
 - Combining the two required Data sets
